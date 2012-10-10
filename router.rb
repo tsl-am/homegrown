@@ -5,7 +5,7 @@ end
 
 action = ARGV[0]
 
-if action == 'all'
+if action == 'index'
   # 
   # What code goes here?
   #
